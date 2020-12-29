@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pl.polsl.anton.pustovidko.controllers"},{"l":"pl.polsl.anton.pustovidko.main"},{"l":"pl.polsl.anton.pustovidko.model"}]

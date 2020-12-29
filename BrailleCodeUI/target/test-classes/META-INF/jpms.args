@@ -1,0 +1,4 @@
+--patch-module
+pl.polsl.anton.pustovidko.main=_
+--add-reads
+pl.polsl.anton.pustovidko.main=ALL-UNNAMED

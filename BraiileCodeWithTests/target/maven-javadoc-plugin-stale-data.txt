@@ -1,0 +1,60 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/classes:/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/test-classes:/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/Users/anton/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/anton/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/anton/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar:/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/Users/anton/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar'
+-encoding
+'UTF-8'
+-private
+-sourcepath
+'/Users/anton/NetBeansProjects/BraiileCodeWithTests/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BrailleCodeWithTests 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'BrailleCodeWithTests 1.0-SNAPSHOT Test API'
+pl.polsl.anton.pustovidko.test
+pl.polsl.anton.pustovidko.test
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/classes = 1606736394350
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/test-classes = 1606736394925
+/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar = 1606132832268
+/Users/anton/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar = 1606132831846
+/Users/anton/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar = 1606132831849
+/Users/anton/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar = 1606132831688
+/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar = 1606132832967
+/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar = 1606132832971
+/Users/anton/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar = 1606132832978
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/src/test/java = 1606663566887
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/constant-values.html = 1607201176155
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/member-search-index.zip = 1607201176215
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/overview-tree.html = 1607201176187
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/index.html = 1607201176266
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/package-search-index.js = 1607201176204
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/package-search-index.zip = 1607201176209
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/type-search-index.zip = 1607201176212
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/index-all.html = 1607201176217
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/allpackages-index.html = 1607201176230
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/deprecated-list.html = 1607201176254
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/member-search-index.js = 1607201176213
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/allclasses.html = 1607201176263
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/script.js = 1607201176272
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/stylesheet.css = 1607201176270
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/element-list = 1607201176067
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/allclasses-index.html = 1607201176226
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/type-search-index.js = 1607201176211
+/Users/anton/NetBeansProjects/BraiileCodeWithTests/target/site/testapidocs/search.js = 1607201176278

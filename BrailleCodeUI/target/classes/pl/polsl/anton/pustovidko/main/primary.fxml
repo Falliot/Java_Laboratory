@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.polsl.anton.pustovidko.controllers.MainController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="Options">
+            <items>
+              <MenuItem fx:id="historyItem" mnemonicParsing="false" text="Show History" />
+                  <MenuItem fx:id="exitItem" mnemonicParsing="false" text="Exit" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <TabPane prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+        <tabs>
+          <Tab text="English to Braille">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="18.0" layoutY="24.0" text="Input:" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="20.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="englishInputTextField" layoutX="13.0" layoutY="60.0" prefHeight="27.0" prefWidth="572.0" promptText="Enter english text:" AnchorPane.leftAnchor="13.0" AnchorPane.rightAnchor="17.0" AnchorPane.topAnchor="60.0" />
+                        <Label layoutX="14.0" layoutY="190.0" text="Result:" AnchorPane.bottomAnchor="80.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="englishResultTextField" editable="false" layoutX="15.0" layoutY="223.0" prefHeight="27.0" prefWidth="572.0" promptText="Correct translation:" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="271.0" />
+                        <Button fx:id="translateEnglishBtn" alignment="CENTER" layoutX="255.0" layoutY="152.0" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" text="Translate" textAlignment="CENTER" AnchorPane.bottomAnchor="152.0" AnchorPane.leftAnchor="255.0" AnchorPane.rightAnchor="254.0" AnchorPane.topAnchor="152.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="clearEnglishTextField" layoutX="531.0" layoutY="18.0" mnemonicParsing="false" text="Clear" />
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab text="Braille to English">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <Button fx:id="translateBrailleBtn" layoutX="255.0" layoutY="152.0" mnemonicParsing="false" text="Translate" AnchorPane.bottomAnchor="152.0" AnchorPane.leftAnchor="255.0" AnchorPane.rightAnchor="254.0" AnchorPane.topAnchor="152.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Button>
+                        <TextField fx:id="brailleResultTextField" editable="false" layoutX="14.0" layoutY="285.0" prefHeight="27.0" prefWidth="572.0" promptText="Correct translation:" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="271.0" />
+                        <Label layoutX="14.0" layoutY="191.0" text="Result:" AnchorPane.bottomAnchor="80.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="brailleInputTextField" layoutX="14.0" layoutY="51.0" prefHeight="27.0" prefWidth="572.0" promptText="Enter english text:" AnchorPane.leftAnchor="13.0" AnchorPane.rightAnchor="17.0" AnchorPane.topAnchor="60.0" />
+                        <Label layoutX="14.0" layoutY="14.0" text="Input:" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="20.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="clearBrailleTextField" layoutX="531.0" layoutY="18.0" mnemonicParsing="false" text="Clear" />
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </center>
+</BorderPane>

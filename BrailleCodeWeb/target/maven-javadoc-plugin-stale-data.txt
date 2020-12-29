@@ -1,0 +1,65 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/anton/NetBeansProjects/BrailleCodeWeb/target/classes:/Users/anton/NetBeansProjects/BrailleCodeWeb/target/test-classes:/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/Users/anton/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/anton/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/anton/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar:/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/Users/anton/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:/Users/anton/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar:/Users/anton/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar:/Users/anton/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'8'
+-sourcepath
+'/Users/anton/NetBeansProjects/BrailleCodeWeb/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BrailleCodeWeb-1.0-SNAPSHOT 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/anton/NetBeansProjects/BrailleCodeWeb/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'BrailleCodeWeb-1.0-SNAPSHOT 1.0-SNAPSHOT Test API'
+pl.polsl.anton.pustovidko.test
+pl.polsl.anton.pustovidko.test
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/classes = 1609157545704
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/test-classes = 1609157546305
+/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar = 1606132832268
+/Users/anton/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar = 1606132831846
+/Users/anton/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar = 1606132831849
+/Users/anton/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar = 1606132831688
+/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar = 1606132832967
+/Users/anton/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar = 1606132832971
+/Users/anton/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar = 1606132832978
+/Users/anton/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar = 1606901599463
+/Users/anton/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar = 1606901599993
+/Users/anton/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar = 1606901598129
+/Users/anton/NetBeansProjects/BrailleCodeWeb/src/test/java = 1606911076340
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/constant-values.html = 1609157600866
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/member-search-index.zip = 1609157600983
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/overview-tree.html = 1609157600936
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/index.html = 1609157601069
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/package-search-index.js = 1609157600967
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/package-search-index.zip = 1609157600974
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/type-search-index.zip = 1609157600976
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/index-all.html = 1609157600987
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/allpackages-index.html = 1609157601035
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/deprecated-list.html = 1609157601052
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/member-search-index.js = 1609157600977
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/allclasses.html = 1609157601057
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/script.js = 1609157601084
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/stylesheet.css = 1609157601074
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/element-list = 1609157600824
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/allclasses-index.html = 1609157601023
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/type-search-index.js = 1609157600975
+/Users/anton/NetBeansProjects/BrailleCodeWeb/target/site/testapidocs/search.js = 1609157601111

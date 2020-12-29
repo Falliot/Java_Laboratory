@@ -1,0 +1,10 @@
+pl/polsl/anton/pustovidko/model/UserInput.class
+pl/polsl/anton/pustovidko/model/Manager.class
+pl/polsl/anton/pustovidko/model/BrailleInputException.class
+pl/polsl/anton/pustovidko/main/CharsetFilter.class
+pl/polsl/anton/pustovidko/main/MainServlet.class
+pl/polsl/anton/pustovidko/model/UserInput_.class
+pl/polsl/anton/pustovidko/model/TranslationOutput.class
+pl/polsl/anton/pustovidko/model/TranslationOutput_.class
+pl/polsl/anton/pustovidko/model/Model.class
+pl/polsl/anton/pustovidko/servlets/HistoryAccessServlet.class

@@ -1,0 +1,78 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.7/org.eclipse.persistence.core-2.7.7.jar:/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.7/org.eclipse.persistence.asm-2.7.7.jar:/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.7/org.eclipse.persistence.antlr-2.7.7.jar:/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.7/org.eclipse.persistence.jpa-2.7.7.jar:/Users/anton/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar:/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.7/org.eclipse.persistence.jpa.jpql-2.7.7.jar:/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.7/org.eclipse.persistence.moxy-2.7.7.jar:/Users/anton/.m2/repository/org/eclipse/persistence/javax.persistence/2.2.1/javax.persistence-2.2.1.jar:/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.7/org.eclipse.persistence.jpa.modelgen.processor-2.7.7.jar:/Users/anton/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar:/Users/anton/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar:/Users/anton/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/Users/anton/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar:/Users/anton/.m2/repository/org/apache/derby/derbyshared/10.15.2.0/derbyshared-10.15.2.0.jar:/Users/anton/.m2/repository/org/apache/derby/derbyclient/10.15.2.0/derbyclient-10.15.2.0.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'8'
+-sourcepath
+'/Users/anton/NetBeansProjects/WebJPA1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BrailleCodeWebWithDatabase 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/anton/NetBeansProjects/WebJPA1/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'BrailleCodeWebWithDatabase 1.0 API'
+pl.polsl.anton.pustovidko.servlets
+pl.polsl.anton.pustovidko.servlets
+pl.polsl.anton.pustovidko.model
+pl.polsl.anton.pustovidko.model
+pl.polsl.anton.pustovidko.model
+pl.polsl.anton.pustovidko.model
+pl.polsl.anton.pustovidko.model
+pl.polsl.anton.pustovidko.model
+pl.polsl.anton.pustovidko.main
+pl.polsl.anton.pustovidko.main
+pl.polsl.anton.pustovidko.main
+/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.7/org.eclipse.persistence.core-2.7.7.jar = 1607509749002
+/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.7/org.eclipse.persistence.asm-2.7.7.jar = 1607509744110
+/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.7/org.eclipse.persistence.antlr-2.7.7.jar = 1607509740804
+/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.7/org.eclipse.persistence.jpa-2.7.7.jar = 1607509747262
+/Users/anton/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar = 1607509740860
+/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.7/org.eclipse.persistence.jpa.jpql-2.7.7.jar = 1607509750441
+/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.7/org.eclipse.persistence.moxy-2.7.7.jar = 1607509748080
+/Users/anton/.m2/repository/org/eclipse/persistence/javax.persistence/2.2.1/javax.persistence-2.2.1.jar = 1607509746922
+/Users/anton/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.7/org.eclipse.persistence.jpa.modelgen.processor-2.7.7.jar = 1607509748134
+/Users/anton/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar = 1606901599463
+/Users/anton/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar = 1606901599993
+/Users/anton/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar = 1606901598129
+/Users/anton/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar = 1607509753122
+/Users/anton/.m2/repository/org/apache/derby/derbyshared/10.15.2.0/derbyshared-10.15.2.0.jar = 1607509749281
+/Users/anton/.m2/repository/org/apache/derby/derbyclient/10.15.2.0/derbyclient-10.15.2.0.jar = 1607513199746
+/Users/anton/NetBeansProjects/WebJPA1/src/main/java/.DS_Store = 1607522044871
+/Users/anton/NetBeansProjects/WebJPA1/src/main/java = 1607522044870
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/constant-values.html = 1608021975868
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/member-search-index.zip = 1608021976156
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/overview-tree.html = 1608021976074
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/index.html = 1608021976222
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/package-search-index.js = 1608021976139
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/package-search-index.zip = 1608021976149
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/type-search-index.zip = 1608021976151
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/serialized-form.html = 1608021975899
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/index-all.html = 1608021976165
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/allpackages-index.html = 1608021976194
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/deprecated-list.html = 1608021976200
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/member-search-index.js = 1608021976154
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/allclasses.html = 1608021976202
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/script.js = 1608021976236
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/stylesheet.css = 1608021976234
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/overview-summary.html = 1608021976227
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/element-list = 1608021975732
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/allclasses-index.html = 1608021976187
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/type-search-index.js = 1608021976150
+/Users/anton/NetBeansProjects/WebJPA1/target/site/apidocs/search.js = 1608021976239
